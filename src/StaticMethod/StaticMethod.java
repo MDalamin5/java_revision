@@ -20,5 +20,10 @@ public class StaticMethod {
 		System.out.println("Salary: "+salary);
 		
 	}
+	
+	static void dis()
+	{
+		System.out.println("No output is hare");
+	}
 
 }

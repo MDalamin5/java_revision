@@ -6,7 +6,7 @@ public class Test {
 		StaticMethod ob = new StaticMethod("Almin",24,25000);
 		
 		StaticMethod.display();
-		
+		StaticMethod.dis();
 	}
 	
 
